@@ -1,0 +1,19 @@
+.docotor_options{
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+
+}
+
+.login-container h1{
+    margin-left: 60px;
+
+}
+
+.book_para{
+    margin-left: 500px;
+    margin-top: 300px;
+    font-size: 25px;
+}

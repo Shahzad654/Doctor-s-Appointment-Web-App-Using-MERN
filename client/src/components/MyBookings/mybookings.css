@@ -1,0 +1,43 @@
+.booking_container{
+    margin-left: 300px;
+}
+
+.booking_heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .booking_list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .booking_item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #f7f7f7;
+  }
+  
+  .booking_item_doctor,
+  .booking_item_patient,
+  .booking_item_date,
+  .booking_item_time {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .booking_item_doctor {
+    color: #007bff;
+  }
+  
+  .booking_item_patient {
+    color: #ff9900;
+  }
+  
+  .booking_item_date,
+  .booking_item_time {
+    color: #666;
+  }
+  
